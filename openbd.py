@@ -1,6 +1,6 @@
 import json, requests, os
 
-
+# result.htmlに吐き出す
 def out_html(book_data_list):
     temp_data = ''
     with open('views/template.tpl', 'r') as r_file:
