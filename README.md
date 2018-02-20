@@ -1,0 +1,2 @@
+# Python-OpenBD
+PythonでOpenBD叩いてHTML生成するクソみたいなプログラム
